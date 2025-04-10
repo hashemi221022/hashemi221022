@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝Hi, I'm Milad. <br>🌱I love learning new skills and using them to achieve a specific goal. <br>🔭I am active in four fields and trying to improve my skills. <br>💬Biotechnology, nanotechnology, computer science, and business and management are these fields. <br>⚡I am here to increase my skills in the field of computer science and share them here.
+🤝Hi, I'm Milad. <br>🌱I love learning new skills and using them to achieve a specific goal. <br>🔭I am active in four fields and trying to improve my skills. <br>💬Biotechnology, nanotechnology, computer science, business and management are these fields. <br>⚡I am here to increase my skills in the field of computer science and share them here.
 
 
 ## 🌐 Socials:
